@@ -1,0 +1,10 @@
+
+{
+  "buses": [
+    {
+      "route_number": "21A",
+      "origin": "MADURAI",
+      "destination": "THIRUMANGALAM"
+    }
+  ]
+}
